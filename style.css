@@ -1,0 +1,46 @@
+.breadcrumb{
+padding-left: 50%;
+}
+.carousel-inner{
+    width: 100%  !important;
+    height: 99%% !important;
+
+}
+.card-title {
+    text-align: center;
+}
+.box-shadow{
+    box-shadow: 5px 5px 5px 5px gray;
+}
+.py-sm-0{
+    padding-top: 10px!important;
+}
+svg:hover {
+    fill: blue;
+  }
+ 
+
+.container1{
+    background-color: white;
+}
+.ms-3 {
+    margin-left: 50px !important;
+}
+.video{
+    display: inline-block !important;
+}
+iframe{
+    display: inline-block !important;
+}
+video{
+    margin-left: 20px;
+}
+#viewmore{
+    
+    margin-left: 500px;
+    align-items: center;
+}
+.images{
+    text-align: center;
+}
+
